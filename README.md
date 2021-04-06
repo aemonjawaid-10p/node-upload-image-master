@@ -22,5 +22,4 @@ node app
 
 <img src="https://www.learn2crack.com/wp-content/uploads/2017/08/postman-upload-image.png"/>
 
-## Tutorial
-https://www.learn2crack.com/2017/08/node-js-server-upload-images.html
+
