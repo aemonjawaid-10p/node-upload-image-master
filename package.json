@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Raj Amal",
+  "author": "Aemon Jawaid",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.3",
